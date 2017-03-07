@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662724332289",
+    "firebase_url": "https://chatapp-239dd.firebaseio.com",
+    "project_id": "chatapp-239dd",
+    "storage_bucket": "chatapp-239dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662724332289:android:7dfac05d7f49c8a1",
+        "android_client_info": {
+          "package_name": "pankaj.co.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662724332289-ouoj67ih57mbmvh7rij424soovgq2d74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pankaj.co.chatapp",
+            "certificate_hash": "7d18e6c52cd767e7aa18290b532e39b0a008345f"
+          }
+        },
+        {
+          "client_id": "662724332289-6ha4l85v4o1pbll3dm792d08nco3m7k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6iZk7pm13TAgMRNTBITpRSPBdFeyLS0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662724332289-6ha4l85v4o1pbll3dm792d08nco3m7k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
